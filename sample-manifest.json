@@ -1,0 +1,12 @@
+{
+  "export_job_id": "08f7f7ee-203e-4bed-b46e-03c4880fa11e",
+  "id_short": 620015,
+  "published_at": "2026-04-14T07:31:48Z",
+  "repo_name": "white-space-finder-in-new-york-newark-jersey-city-metro-ny-nj-us-sample-620015",
+  "sample_asset_name": "beamstation_620015_food_and_drink-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/620015/beamstation_620015_food_and_drink-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "922754018149ed60eb7c7ce77b02fee4e381422b15b6415551d03bc1a88c135c",
+  "sample_size_bytes": 44070,
+  "total_records": 77
+}
