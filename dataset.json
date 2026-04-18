@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in New York-Newark-Jersey City, NY-NJ that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in New York-Newark-Jersey City (Metro), NY-NJ, US",
-  "export_job_id": "08f7f7ee-203e-4bed-b46e-03c4880fa11e",
+  "export_job_id": "fd39ec35-10c1-4202-bdad-5d657fd505c9",
   "github_org": "Beamstation-Datasets",
   "id_short": 620015,
   "location_name": "New York-Newark-Jersey City, NY-NJ",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-new-york-newark-jersey-city-metro-ny-nj-us-sample-620015",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/620015/beamstation_620015_food_and_drink-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
-  "sample_pct": 9.09,
+  "sample_pct": 9.46,
   "sample_records": 7,
-  "sample_sha256": "922754018149ed60eb7c7ce77b02fee4e381422b15b6415551d03bc1a88c135c",
-  "sample_size_bytes": 44070,
-  "total_records": 77,
-  "updated_at": "2026-04-08T01:20:03.384709+00:00"
+  "sample_sha256": "800c86aa0245b5090c9d1908c491d7832b6b675a694c8ff3718eeb092abe0e18",
+  "sample_size_bytes": 43428,
+  "total_records": 74,
+  "updated_at": "2026-04-15T06:55:50.001082+00:00"
 }
