@@ -1,6 +1,6 @@
 # White Space Finder in New York-Newark-Jersey City (Metro), NY-NJ, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `620015` |
 | Location | New York-Newark-Jersey City, NY-NJ |
 | Category | Restaurants |
-| Full dataset size | 58 records |
-| Free sample size | 5 records (8.62%) |
-| Last export | 2026-04-22T13:05:28.709769+00:00 |
+| Full dataset size | 78 records |
+| Free sample size | 7 records (8.97%) |
+| Last export | 2026-04-29T13:53:26.922816+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-new-york-newark-jersey-city-metro-ny-nj-us-sample-620015/releases/download/sample-latest/beamstation_620015_food_and_drink-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
